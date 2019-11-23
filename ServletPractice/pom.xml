@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ServletPractice</groupId>
   <artifactId>helloworld</artifactId>
-  <version>base</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <dependencies>
 		<dependency>
